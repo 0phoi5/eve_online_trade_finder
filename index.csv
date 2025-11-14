@@ -1,0 +1,91 @@
+item_id,item_name,m3,items_in_465000
+1230,Veldspar,0.1,4650000
+17470,Concentrated Veldspar,0.1,4650000
+17471,Dense Veldspar,0.1,4650000
+1228,Scordite,0.15,3100000
+17463,Condensed Scordite,0.15,3100000
+17464,Massive Scordite,0.15,3100000
+1224,Pyroxeres,0.3,1550000
+18,Plagioclase,0.35,1328571
+17455,Azure Plagioclase,0.35,1328571
+17456,Rich Plagioclase,0.35,1328571
+1227,Omber,0.6,775000
+17867,Silvery Omber,0.6,775000
+17868,Golden Omber,0.6,775000
+20,Kernite,1.2,387500
+17452,Luminous Kernite,1.2,387500
+17453,Fiery Kernite,1.2,387500
+46683,Resplendent Kernite,1.2,387500
+1226,Jaspet,2,232500
+1231,Hemorphite,3,155000
+21,Hedbergite,3,155000
+1229,Gneiss,5,93000
+17437,Obsidian Ochre,8,58125
+1225,Crokite,16,29062
+1223,Bistot,16,29062
+22,Arkonor,16,29062
+11396,Mercoxit,40,11625
+74533,Ducinium,16,29062
+74529,Eifyrium,16,29062
+74525,Ytirium,16,29062
+16262,Clear Icicle,1000,465
+16264,Blue Ice,1000,465
+16265,White Glaze,1000,465
+17975,Thick Blue Ice,1000,465
+2203,Acolyte I,5,93000
+2454,Hobgoblin I,5,93000
+2486,Warrior I,5,93000
+2464,Hornet I,5,93000
+2174,Infiltrator I,10,46500
+2183,Hammerhead I,10,46500
+15508,Vespa I,10,46500
+15510,Valkyrie I,10,46500
+2193,Praetor I,25,18600
+2444,Ogre I,25,18600
+2476,Berserker I,25,18600
+1201,Wasp I,25,18600
+23525,Curator I,25,18600
+23561,Garde I,25,18600
+23563,Bouncer I,25,18600
+23559,Warden I,25,18600
+23711,Light Armor Maintenance Bot I,5,93000
+23523,Heavy Armor Maintenance Bot I,25,18600
+23719,Light Shield Maintenance Bot I,5,93000
+22765,Heavy Shield Maintenance Bot I,25,18600
+43699,Ice Harvesting Drone I,50,9300
+23707,Hornet EC-300,5,93000
+23473,Wasp EC-900,25,18600
+23723,Warrior TP-300,5,93000
+23659,Acolyte EV-300,5,93000
+42831,Mining Equipment Preservation Charge,0.01,46500000
+42829,Mining Laser Field Enhancement Charge,0.01,46500000
+42830,Mining Laser Optimization Charge,0.01,46500000
+247,Radio M,1,465000
+249,Infrared M,1,465000
+254,Multifrequency M,1,465000
+215,Iron Charge S,0.0025,186000000
+216,Tungsten Charge S,0.0025,186000000
+218,Iridium Charge S,0.0025,186000000
+218,Lead Charge S,0.0025,186000000
+219,Thorium Charge S,0.0025,186000000
+221,Uranium Charge S,0.0025,186000000
+221,Plutonium Charge S,0.0025,186000000
+222,Antimatter Charge S,0.0025,186000000
+226,Lead Charge M,0.01,46500000
+227,Thorium Charge M,0.01,46500000
+228,Uranium Charge M,0.01,46500000
+229,Plutonium Charge M,0.01,46500000
+230,Antimatter Charge M,0.01,46500000
+238,Antimatter Charge L,0.03,15500000
+209,Scourge Heavy Missile,0.03,15500000
+208,Inferno Heavy Missile,0.03,15500000
+207,Mjolnir Heavy Missile,0.03,15500000
+206,Nova Heavy Missile,0.03,15500000
+210,Scourge Light Missile,0.02,23250000
+211,Inferno Light Missile,0.02,23250000
+212,Mjolnir Light Missile,0.02,23250000
+213,Nova Light Missile,0.02,23250000
+266,Scourge Rocket,0.01,46500000
+2514,Inferno Rocket,0.01,46500000
+2512,Mjolnir Rocket,0.01,46500000
+2516,Nova Rocket,0.01,46500000
